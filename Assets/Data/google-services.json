@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "271594349406",
+    //"firebase_url": "https://c26-clasefirebase-default-rtdb.firebaseio.com",
+    "project_id": "c26-clasefirebase",
+    "storage_bucket": "c26-clasefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271594349406:android:0e2ffd3242c3b4686da5cf",
+        "android_client_info": {
+          "package_name": "com.clase.claseFirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0VTMfPKx5IH8OSJqaNIozfizo1deARDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
